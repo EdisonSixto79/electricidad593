@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edisonsixto79.github.io/electricidad593/sitemap.xml
